@@ -1,0 +1,15 @@
+/home/pfes/sharing_is_caring_csharp/bin/Debug/net6.0/sharing_is_caring_csharp
+/home/pfes/sharing_is_caring_csharp/bin/Debug/net6.0/sharing_is_caring_csharp.deps.json
+/home/pfes/sharing_is_caring_csharp/bin/Debug/net6.0/sharing_is_caring_csharp.runtimeconfig.json
+/home/pfes/sharing_is_caring_csharp/bin/Debug/net6.0/sharing_is_caring_csharp.dll
+/home/pfes/sharing_is_caring_csharp/bin/Debug/net6.0/ref/sharing_is_caring_csharp.dll
+/home/pfes/sharing_is_caring_csharp/bin/Debug/net6.0/sharing_is_caring_csharp.pdb
+/home/pfes/sharing_is_caring_csharp/obj/Debug/net6.0/sharing_is_caring_csharp.csproj.AssemblyReference.cache
+/home/pfes/sharing_is_caring_csharp/obj/Debug/net6.0/sharing_is_caring_csharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/pfes/sharing_is_caring_csharp/obj/Debug/net6.0/sharing_is_caring_csharp.AssemblyInfoInputs.cache
+/home/pfes/sharing_is_caring_csharp/obj/Debug/net6.0/sharing_is_caring_csharp.AssemblyInfo.cs
+/home/pfes/sharing_is_caring_csharp/obj/Debug/net6.0/sharing_is_caring_csharp.csproj.CoreCompileInputs.cache
+/home/pfes/sharing_is_caring_csharp/obj/Debug/net6.0/sharing_is_caring_csharp.dll
+/home/pfes/sharing_is_caring_csharp/obj/Debug/net6.0/ref/sharing_is_caring_csharp.dll
+/home/pfes/sharing_is_caring_csharp/obj/Debug/net6.0/sharing_is_caring_csharp.pdb
+/home/pfes/sharing_is_caring_csharp/obj/Debug/net6.0/sharing_is_caring_csharp.genruntimeconfig.cache
